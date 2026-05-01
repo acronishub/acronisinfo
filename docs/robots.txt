@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://acronisinfo.readthedocs.io/en/latest/
