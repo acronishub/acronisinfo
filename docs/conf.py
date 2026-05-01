@@ -28,4 +28,4 @@ html_context = {
 }
 
 # Base URL for sitemap
-html_baseurl = 'https://acronisinfo.readthedocs.io/en/latest/'
+html_baseurl = 'https://acronisguide.readthedocs.io/en/latest/'
